@@ -148,8 +148,8 @@ researchers entering quantitative finance.
 
 ------------------------------------------------------------------------
 
-## 📜 Disclaimer
+## AUTHOR
+Krish Kumar
 
-This project is intended for educational and research purposes. It
-should not be considered investment advice or a production-grade
-interest rate forecasting system.
+Completed as a project for finclub 
+
